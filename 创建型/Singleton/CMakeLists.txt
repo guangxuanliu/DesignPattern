@@ -1,3 +1,2 @@
-set(SRC Singleton.cpp main.cpp)
-
-add_executable(Singleton ${SRC})
+add_subdirectory(Basic)
+add_subdirectory(ThreadSafe)

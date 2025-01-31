@@ -5,8 +5,10 @@
 定义对象间的一种一对多的依赖关系，当一个对象的状态发生改变时，所有依赖于它的对象都得到通知并且被自动更新。
 
 ## 备注
-- Subject：发布者基类
-- Observer：订阅者基类
-- ClockTimer：发布者子类
-- DigitalClock：订阅者的一种子类
-- AnalogClock：订阅者的另一种子类
+- 各个类：
+    - Subject：发布者基类
+    - Observer：订阅者基类
+    - ClockTimer：发布者子类
+    - DigitalClock：订阅者的一种子类
+    - AnalogClock：订阅者的另一种子类
+- 常说的MVC，使用的就是此模式

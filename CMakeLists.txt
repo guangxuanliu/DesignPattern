@@ -13,3 +13,4 @@ add_subdirectory(结构型/Decorator)
 
 
 add_subdirectory(行为型/Observer)
+add_subdirectory(行为型/Strategy)

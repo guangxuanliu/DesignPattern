@@ -10,6 +10,7 @@ add_subdirectory(结构型/Adapter)
 add_subdirectory(结构型/Proxy)
 add_subdirectory(结构型/Decorator)
 add_subdirectory(结构型/Bridge)
+add_subdirectory(结构型/Composite)
 
 
 add_subdirectory(行为型/Observer)

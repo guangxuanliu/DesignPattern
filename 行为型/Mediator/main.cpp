@@ -1,7 +1,15 @@
 #include <iostream>
 
+#include "FontDialogDirector.h"
+
 int main()
 {
-    std::cout << "Hello, World!" << std::endl;
+    
+    FontDialogDirector *dialog = new FontDialogDirector();
+    dialog->ShowDialog();
+    
+
+
+
     return 0;
 }

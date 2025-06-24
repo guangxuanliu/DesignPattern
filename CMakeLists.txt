@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.5)
 project(DesignPattern)
 
 add_subdirectory(01_AbstractFactory)
-add_subdirectory(创建型/Singleton)
+add_subdirectory(创建型/单例模式)
 
 add_subdirectory(结构型/Facade)
 add_subdirectory(结构型/Adapter)

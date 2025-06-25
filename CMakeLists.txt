@@ -2,9 +2,14 @@ cmake_minimum_required(VERSION 3.5)
 
 project(DesignPattern)
 
+set(CMAKE_CXX_STANDARD 23)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_EXTENSIONS OFF)
+
 add_subdirectory(01_AbstractFactory)
 add_subdirectory(创建型/单例模式)
 
+add_subdirectory(结构型/享元模式)
 add_subdirectory(结构型/Facade)
 add_subdirectory(结构型/Adapter)
 add_subdirectory(结构型/Proxy)

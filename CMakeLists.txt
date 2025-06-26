@@ -8,6 +8,8 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 add_subdirectory(01_AbstractFactory)
 add_subdirectory(创建型/单例模式)
+add_subdirectory(创建型/原型模式)
+
 
 add_subdirectory(结构型/享元模式)
 add_subdirectory(结构型/Facade)

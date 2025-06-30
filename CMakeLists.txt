@@ -8,6 +8,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 add_subdirectory(创建型/单例模式)
 add_subdirectory(创建型/原型模式)
+add_subdirectory(创建型/生成器模式)
 add_subdirectory(创建型/工厂模式家族/简单工厂模式)
 add_subdirectory(创建型/工厂模式家族/工厂方法模式)
 add_subdirectory(创建型/工厂模式家族/抽象工厂模式)

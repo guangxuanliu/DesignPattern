@@ -17,9 +17,9 @@ add_subdirectory(创建型/工厂模式家族/抽象工厂模式)
 add_subdirectory(结构型/享元模式)
 add_subdirectory(结构型/组合模式)
 add_subdirectory(结构型/代理模式)
+add_subdirectory(结构型/装饰器模式)
 add_subdirectory(结构型/Facade)
 add_subdirectory(结构型/Adapter)
-add_subdirectory(结构型/Decorator)
 add_subdirectory(结构型/Bridge)
 
 

@@ -18,8 +18,8 @@ add_subdirectory(结构型/享元模式)
 add_subdirectory(结构型/组合模式)
 add_subdirectory(结构型/代理模式)
 add_subdirectory(结构型/装饰器模式)
-add_subdirectory(结构型/Facade)
-add_subdirectory(结构型/Adapter)
+add_subdirectory(结构型/外观模式)
+add_subdirectory(结构型/适配器模式)
 add_subdirectory(结构型/Bridge)
 
 

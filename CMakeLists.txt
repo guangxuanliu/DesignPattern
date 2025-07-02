@@ -23,9 +23,9 @@ add_subdirectory(结构型/Adapter)
 add_subdirectory(结构型/Bridge)
 
 
+add_subdirectory(行为型/责任链模式)
 add_subdirectory(行为型/Observer)
 add_subdirectory(行为型/Strategy)
 add_subdirectory(行为型/State)
 add_subdirectory(行为型/Iterator)
-add_subdirectory(行为型/ChainOfResponsibility)
 add_subdirectory(行为型/Mediator)

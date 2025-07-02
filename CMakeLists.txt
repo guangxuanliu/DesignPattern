@@ -20,7 +20,7 @@ add_subdirectory(结构型/代理模式)
 add_subdirectory(结构型/装饰器模式)
 add_subdirectory(结构型/外观模式)
 add_subdirectory(结构型/适配器模式)
-add_subdirectory(结构型/Bridge)
+add_subdirectory(结构型/桥接模式)
 
 
 add_subdirectory(行为型/责任链模式)

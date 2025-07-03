@@ -25,7 +25,7 @@ add_subdirectory(结构型/桥接模式)
 
 add_subdirectory(行为型/责任链模式)
 add_subdirectory(行为型/观察者模式)
+add_subdirectory(行为型/迭代器模式)
 add_subdirectory(行为型/Strategy)
 add_subdirectory(行为型/State)
-add_subdirectory(行为型/Iterator)
 add_subdirectory(行为型/Mediator)
